@@ -1,0 +1,8 @@
+rock_manifest = {
+   ["env-scm-1.rockspec"] = "7958a418af58135ec49b3866677bba0c",
+   lua = {
+      env = {
+         ["init.lua"] = "97911abb0ac56e291ceeeb422db0f98d"
+      }
+   }
+}
